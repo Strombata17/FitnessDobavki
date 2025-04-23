@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\html\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\html\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\css\\page2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\css\\page2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\html\\page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\html\\page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\html\\page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\html\\page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\css\\Index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|c:\\users\\1212-13\\desktop\\stanislav 12d\\dobavki\\dobavki\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A56D51-A1CB-4692-A1D9-0BF912A0AEA4}|Dobavki\\Dobavki.csproj|solutionrelative:dobavki\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Dobavki\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Dobavki\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:23:25.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.html",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page2.html",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\HTML\\Page2.html",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page2.html",
+              "RelativeToolTip": "Dobavki\\wwwroot\\HTML\\Page2.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-02T05:58:52.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page2.css",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\css\\Page2.css",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\css\\Page2.css",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\css\\Page2.css",
+              "RelativeToolTip": "Dobavki\\wwwroot\\css\\Page2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-02T05:58:25.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page4.html",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page4.html",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\HTML\\Page4.html",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page4.html",
+              "RelativeToolTip": "Dobavki\\wwwroot\\HTML\\Page4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-26T08:18:37.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page3.html",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page3.html",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\HTML\\Page3.html",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Page3.html",
+              "RelativeToolTip": "Dobavki\\wwwroot\\HTML\\Page3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-26T08:17:52.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Index.html",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\HTML\\Index.html",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\HTML\\Index.html",
+              "RelativeToolTip": "Dobavki\\wwwroot\\HTML\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-26T08:16:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\Index.html",
+              "RelativeDocumentMoniker": "..\\proektfitnes\\Index.html",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\Index.html",
+              "RelativeToolTip": "..\\proektfitnes\\Index.html",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-25T09:32:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:30:51.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Dobavki\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Dobavki\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-25T08:21:43.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.css",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\css\\Index.css",
+              "RelativeDocumentMoniker": "..\\proektfitnes\\css\\Index.css",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\proektfitnes\\css\\Index.css",
+              "RelativeToolTip": "..\\proektfitnes\\css\\Index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-25T08:21:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T08:19:25.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T10:26:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dobavki\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dobavki\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:20:37.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Dobavki\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Dobavki\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:15:58.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:15:41.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:15:38.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:13:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwFEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:08:24.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:03:06.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Dobavki\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwHEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:37:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dobavki\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-13\\Desktop\\Stanislav 12d\\Dobavki\\Dobavki\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Dobavki\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T08:25:38.343Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
